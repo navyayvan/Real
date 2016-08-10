@@ -1,6 +1,6 @@
 == README
 
-Ruby on Rails site styled Bootstrap 4. 
+Ruby on Rails site styled with Bootstrap 4. 
 
 Features a prominent carousel and a form that writes data to a PostgreSQL database. 
 
